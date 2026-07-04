@@ -56,5 +56,6 @@ I am open to:
 - Location: Pangkalpinang, Indonesia
 - Time zone: GMT+7
 - Languages: Indonesian (native), English (C1)
+- [CV](/)
 
 > I value clear documentation, data quality, reproducible workflows, and responsible use of environmental information.
