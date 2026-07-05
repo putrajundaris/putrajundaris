@@ -58,6 +58,6 @@ I am open to:
 - Time zone: GMT+7
 - Languages: Indonesian (native), English (C1)
 
-## [CV](/cv)
+## [CV](/cv/Muhammad_Putra_Jundaris_International_CV.pdf)
 
 > I value clear documentation, data quality, reproducible workflows, and responsible use of environmental information.
