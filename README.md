@@ -23,10 +23,9 @@ I am an early-career Biology professional based in **Pangkalpinang, Indonesia (G
 
 ## Featured Work
 
-- [Environmental GIS & Data Visualization Portfolio](https://github.com/putrajundaris/environmental-gis-data-portfolio/blob/794863ef03485685346171f4df561eccbe036f14/README.md)
-- [Sea Cucumber Ecological Distribution Analysist Thesis](https://github.com/putrajundaris/environmental-gis-data-portfolio/blob/fd30387f0280b2d9170d0c0443425f6e34330905/projects/01-sea-cucumber-spatial-analysis/README.md)
-- [Environmental Research & Data Visualization Portfolio](https://github.com/putrajundaris/environmental-gis-data-portfolio/blob/a229bb67d8439c8aff7fabb865f45eec79a4ec6b/projects/02-Enviormental-Research-data-Map-Visualization/README.md)
-- More projects are being published weekly
+- [Environmental GIS & Data Visualization Portfolio](https://github.com/putrajundaris/environmental-gis-data-portfolio)
+- [Spatial Analysis of Sea Cucumber Distribution](https://github.com/putrajundaris/environmental-gis-data-portfolio/blob/main/projects/01-sea-cucumber-spatial-analysis/README.md)
+- More projects publishing weekly — check back for updates
 
 ## Current 6-Month Goal
 
@@ -52,10 +51,10 @@ I am open to:
 
 ## Contact
 
-- Email: [Putrajer663@gmail.com](mailto:Putrajer663@gmail.com)
-- Location: Pangkalpinang, Indonesia
-- Time zone: GMT+7
-- Languages: Indonesian (native), English (C1)
+- Email: Putrajer663@gmail.com
+- Location: Pangkalpinang, Bangka Belitung, Indonesia
+- LinkedIn: [linkedin.com/in/muhammad-putra-jundaris-](https://linkedin.com/in/muhammad-putra-jundaris-)
+- GitHub: [putrajundaris](https://github.com/putrajundaris)
 
 ## [CV](/cv/Muhammad_Putra_Jundaris_International_CV.pdf)
 
