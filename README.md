@@ -25,6 +25,7 @@ I am an early-career Biology professional based in **Pangkalpinang, Indonesia (G
 
 - [Environmental GIS & Data Visualization Portfolio](https://github.com/putrajundaris/environmental-gis-data-portfolio)
 - [Spatial Analysis of Sea Cucumber Distribution](https://github.com/putrajundaris/environmental-gis-data-portfolio/blob/main/projects/01-sea-cucumber-spatial-analysis/README.md)
+- [Water Quality Analysis Internship — Environmental Laboratory, DLHK Bangka Belitung]()
 - More projects publishing weekly — check back for updates
 
 ## Current 6-Month Goal
