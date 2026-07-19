@@ -21,16 +21,10 @@ I am an early-career Biology professional based in **Pangkalpinang, Indonesia (G
 - **Research:** Scientific writing, literature review, research documentation
 - **Digital:** Microsoft Office, Canva, basic graphic design
 
-
-putrajundaris
-
-📁[environmental-gis-data-portfolio](https://github.com/putrajundaris/environmental-gis-data-portfolio)
-
-📁 [environmental-laboratory-portfolio](https://github.com/putrajundaris/WaterQuality-Analysis-Internship-Environmental-Laboratory-DLHK-Bangka-Belitung)
-
 ## Featured Work
 
-- [Environmental GIS & Data Visualization Portfolio](https://github.com/putrajundaris/environmental-gis-data-portfolio)
+- [Environmental Geography system informatin (GIS)](https://github.com/putrajundaris/environmental-gis-data-portfolio)
+- [Environmental Data Visualization](https://github.com/putrajundaris/environmental-gis-data-portfolio)
 - [Spatial Analysis of Sea Cucumber Distribution](https://github.com/putrajundaris/environmental-gis-data-portfolio/blob/main/projects/01-sea-cucumber-spatial-analysis/README.md)
 - [Water Quality Analysis Internship — Environmental Laboratory, DLHK Bangka Belitung](https://github.com/putrajundaris/WaterQuality-Analysis-Internship-Environmental-Laboratory-DLHK-Bangka-Belitung)
 - More projects publishing weekly — check back for updates
